@@ -1,1 +1,1 @@
-langgenius/dify-web:0.6.13 crpi-lk2kq8nk9nv30wz6.cn-hangzhou.personal.cr.aliyuncs.com/syw_test/dify-web:0.6.13
+langgenius/dify-web:1.0.0 crpi-lk2kq8nk9nv30wz6.cn-hangzhou.personal.cr.aliyuncs.com/syw_test/dify-web:1.0.0
